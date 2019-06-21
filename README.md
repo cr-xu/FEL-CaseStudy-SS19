@@ -7,13 +7,12 @@ Design/ Scratch of a Free Electron Laser (FEL).
 
 Specification of the laser to be produced:
 
-* Light wavelength: &nbsp; <img src="https://latex.codecogs.com/svg.latex?&space; \lambda \leqslant 0.5 \,\textup{\AA}" title="\lambda \leqslant 0.5 \,\AA" />
+* Light wavelength: &nbsp; ![](https://latex.codecogs.com/gif.latex?%5Clambda%20%5Cleqslant%200.5%20%5C%2C%5Ctextup%7B%5CAA%7D)
 
-* Exposure time: &nbsp;&nbsp; <img src="https://latex.codecogs.com/svg.latex?&space; t \leqslant 10 \,\textup{fs}"
-title="t \leqslant 10 \,\textup{fs}" />
+* Exposure time: &nbsp;&nbsp; ![](https://latex.codecogs.com/gif.latex?t%20%5Cleqslant%2010%20%5C%2C%5Ctextup%7Bfs%7D)
 
-* Repetition Rate: &nbsp; <img src="https://latex.codecogs.com/svg.latex?&space; f \geqslant 100 \,\textup{Hz}"
-title="f \geqslant 100 \,\textup{Hz}" />
+* Repetition Rate: &nbsp; ![](https://latex.codecogs.com/gif.latex?f%20%5Cgeqslant%20100%20%5C%2C%5Ctextup%7BHz%7D)
+
 
 Energy efficiency and total length of the machine should also be optimised. (to be considered later)
 
